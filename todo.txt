@@ -1,1 +1,35 @@
-test
+Index.html - Alle/Simon
+- Opsættes med Lorem Ipsum
+- Infoboksen til venstre
+- Integration af Facebook, Twitter osv
+- 
+
+Contact.html - Peter
+- Opsættes med Lorem Ipsum
+-
+-
+-
+
+Events.html - William
+- Opsættes med Lorem Ipsum
+-
+-
+-
+
+History.html - Bianca
+- Opsættes med Lorem Ipsum
+-
+-
+-
+
+Member.html
+- Opsættes med Lorem Ipsum
+-
+-
+-
+
+Stylesheet.css - Simon
+- Finde de rigtige farver
+-
+-
+-
