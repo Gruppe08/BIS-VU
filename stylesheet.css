@@ -57,7 +57,7 @@ p{
 }
 
 	
-.nav{
+.menu{
     border-width:1px 0;
     list-style:none;
     margin:0;
@@ -71,10 +71,10 @@ p{
 
     
 }
-.nav li{
+.menu li{
     display:inline;
 }
-.nav a{
+.menu a{
     display:inline-block;
     padding:10px;
 }
