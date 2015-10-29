@@ -27,18 +27,31 @@ h1 {
 	
 
 }
-.boxed {
+.infobox {
   background-color: #0f1a26;
   color:white;
-  font: 12px kaffethin, sans-serif;
+  font: 22px kaffethin, sans-serif;
     position: fixed;
-    bottom: 10%;
+    bottom: 25%;
     right: 85%;
-    width: 100px;
-    height: 150px;
+    width: 175px;
+    height: 225px;
+    border-radius: 25px;
+	box-shadow: 0px 0px 10px #888888;
+	text-transform: uppercase;
+
 
 
 }
+
+.video{
+    float: right;
+    margin: 0 20px 20px 0;
+    right 20%;
+    margin-top: -100px;
+	
+    }
+
 
 .cover{
 	width:100%; 
@@ -52,7 +65,9 @@ p{
 	font: 11px, kaffethin, sans-serif;
 	margin: auto;
 	width: 60%;
-	
+	text-align: justify;
+    text-indent: 5em;
+	float:left;
 
 }
 
@@ -67,10 +82,25 @@ p{
     background-color:#0f1a26; 
     font: 24px kaffethin, sans-serif;
     text-transform: uppercase;
+    
 
 
+
+}
+.infobox ul{
+	margin-top: 20px;
+    margin-left: -30px;
+}
+
+
+.infobox li{
+    display:inline;
+}
+.infobox a{
+    display:inline-block;
     
 }
+
 .menu li{
     display:inline;
 }
@@ -112,3 +142,4 @@ p {
 	width: 60%
 	
 }
+
