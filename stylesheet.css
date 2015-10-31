@@ -1,5 +1,12 @@
 body {
     background-image: url("Pictures/bg.jpg");
+    
+    }
+html, body {
+	margin:0;
+	padding:0;
+	height:100%;
+
 }
 
 @font-face {
@@ -54,6 +61,8 @@ h1 {
 
 .cover{
 	width:100%; 
+	margin: 0;
+	margin-top: 0px;
 	
 	
 }
@@ -143,25 +152,4 @@ p {
 	
 }
 
-.footer{
-	margin: auto;
-	position:absolute;
-	top 100%;
-	bottom: 0;
-    list-style:none;
-    text-align:center;
-    width: 99%;
-    background-color:#0f1a26; 
-    font: 12px kaffethin, sans-serif;
-    text-transform: uppercase;
-    color: white;
-    opacity: 0.4;
 
-
-	}
-.footer p{
-    font: 18px kaffethin, sans-serif;
-    text-transform: uppercase;
-    color: white;
-
-	}
