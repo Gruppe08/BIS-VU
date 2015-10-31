@@ -44,13 +44,12 @@ h1 {
 
 }
 
-.video{
-    float: right;
-    margin: 0 20px 20px 0;
-    right 20%;
-    margin-top: -100px;
+
+    .video{
+    margin: 0 300px 0 200px;
 	
     }
+
 
 
 .cover{
@@ -122,6 +121,7 @@ a:visited {
 
 
 
+
 a:hover {
     color: #f48616;
         text-decoration: none;
@@ -143,3 +143,24 @@ p {
 	
 }
 
+.footer{
+	margin: auto;
+	position: fixed;
+	bottom: 0;
+    list-style:none;
+    text-align:center;
+    width: 99%;
+    background-color:#0f1a26; 
+    font: 12px kaffethin, sans-serif;
+    text-transform: uppercase;
+    color: white;
+    opacity: 0.4;
+
+
+	}
+.footer p{
+    font: 18px kaffethin, sans-serif;
+    text-transform: uppercase;
+    color: white;
+
+	}
