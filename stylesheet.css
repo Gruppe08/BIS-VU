@@ -145,7 +145,8 @@ p {
 
 .footer{
 	margin: auto;
-	position: fixed;
+	position:absolute;
+	top 100%;
 	bottom: 0;
     list-style:none;
     text-align:center;
